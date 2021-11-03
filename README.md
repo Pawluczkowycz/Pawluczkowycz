@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Pawluczkowycz
+- 👋 Hi, I’m Andrew W Pawluczkowycz @Pawluczkowycz
 - 👀 I’m interested in web development and design
 - 🌱 I’m currently learning UX
 - 💞️ I’m looking to collaborate on great front end projects

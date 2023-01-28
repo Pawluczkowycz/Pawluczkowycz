@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andrew W Pawluczkowycz @Pawluczkowycz
-- 👀 I’m interested in web development and design
+- 👀 I’m interested in computing
 - 🌱 
-- 💞️ I’m looking to collaborate on great front end projects
+- 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me awpawluczkowycz@gmail.com
 
 <!---
